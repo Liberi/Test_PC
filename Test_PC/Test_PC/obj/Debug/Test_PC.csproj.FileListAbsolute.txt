@@ -1,0 +1,36 @@
+C:\Шалыгин Эдуард\Test_PC\Test_PC\bin\Debug\Test_PC.exe.config
+C:\Шалыгин Эдуард\Test_PC\Test_PC\bin\Debug\Test_PC.exe
+C:\Шалыгин Эдуард\Test_PC\Test_PC\bin\Debug\Test_PC.pdb
+C:\Шалыгин Эдуард\Test_PC\Test_PC\obj\Debug\Test_PC.csproj.AssemblyReference.cache
+C:\Шалыгин Эдуард\Test_PC\Test_PC\obj\Debug\Test_PC.Form1.resources
+C:\Шалыгин Эдуард\Test_PC\Test_PC\obj\Debug\Test_PC.Form2.resources
+C:\Шалыгин Эдуард\Test_PC\Test_PC\obj\Debug\Test_PC.Properties.Resources.resources
+C:\Шалыгин Эдуард\Test_PC\Test_PC\obj\Debug\Test_PC.csproj.GenerateResource.cache
+C:\Шалыгин Эдуард\Test_PC\Test_PC\obj\Debug\Test_PC.csproj.CoreCompileInputs.cache
+C:\Шалыгин Эдуард\Test_PC\Test_PC\obj\Debug\Test_PC.exe
+C:\Шалыгин Эдуард\Test_PC\Test_PC\obj\Debug\Test_PC.pdb
+C:\Users\7102a\source\repos\Test_PC\Test_PC\bin\Debug\Test_PC.exe.config
+C:\Users\7102a\source\repos\Test_PC\Test_PC\bin\Debug\Test_PC.exe
+C:\Users\7102a\source\repos\Test_PC\Test_PC\bin\Debug\Test_PC.pdb
+C:\Users\7102a\source\repos\Test_PC\Test_PC\obj\Debug\Test_PC.csproj.AssemblyReference.cache
+C:\Users\7102a\source\repos\Test_PC\Test_PC\obj\Debug\Test_PC.Form1.resources
+C:\Users\7102a\source\repos\Test_PC\Test_PC\obj\Debug\Test_PC.Form2.resources
+C:\Users\7102a\source\repos\Test_PC\Test_PC\obj\Debug\Test_PC.Properties.Resources.resources
+C:\Users\7102a\source\repos\Test_PC\Test_PC\obj\Debug\Test_PC.csproj.GenerateResource.cache
+C:\Users\7102a\source\repos\Test_PC\Test_PC\obj\Debug\Test_PC.csproj.CoreCompileInputs.cache
+C:\Users\7102a\source\repos\Test_PC\Test_PC\obj\Debug\Test_PC.exe
+C:\Users\7102a\source\repos\Test_PC\Test_PC\obj\Debug\Test_PC.pdb
+E:\проги\Test_PC\Test_PC\bin\Debug\Test_PC.exe.config
+E:\проги\Test_PC\Test_PC\bin\Debug\Test_PC.exe
+E:\проги\Test_PC\Test_PC\bin\Debug\Test_PC.pdb
+E:\проги\Test_PC\Test_PC\obj\Debug\Test_PC.csproj.AssemblyReference.cache
+E:\проги\Test_PC\Test_PC\obj\Debug\Test_PC.Form1.resources
+E:\проги\Test_PC\Test_PC\obj\Debug\Test_PC.Form2.resources
+E:\проги\Test_PC\Test_PC\obj\Debug\Test_PC.Properties.Resources.resources
+E:\проги\Test_PC\Test_PC\obj\Debug\Test_PC.csproj.GenerateResource.cache
+E:\проги\Test_PC\Test_PC\obj\Debug\Test_PC.csproj.CoreCompileInputs.cache
+E:\проги\Test_PC\Test_PC\obj\Debug\Test_PC.exe
+E:\проги\Test_PC\Test_PC\obj\Debug\Test_PC.pdb
+E:\проги\Test_PC\Test_PC\obj\Debug\Test_PC.Leaders.resources
+C:\Users\7102a\source\repos\Test_PC\Test_PC\obj\Debug\Test_PC.Leaders.resources
+C:\Шалыгин Эдуард\Test_PC\Test_PC\obj\Debug\Test_PC.Leaders.resources
